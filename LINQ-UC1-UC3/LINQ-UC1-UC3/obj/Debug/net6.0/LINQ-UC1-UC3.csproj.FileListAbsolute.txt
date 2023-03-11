@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\bin\Debug\net6.0\LINQ-UC1-UC3.exe
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\bin\Debug\net6.0\LINQ-UC1-UC3.deps.json
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\bin\Debug\net6.0\LINQ-UC1-UC3.runtimeconfig.json
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\bin\Debug\net6.0\LINQ-UC1-UC3.dll
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\bin\Debug\net6.0\LINQ-UC1-UC3.pdb
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\obj\Debug\net6.0\LINQ-UC1-UC3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\obj\Debug\net6.0\LINQ-UC1-UC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\obj\Debug\net6.0\LINQ-UC1-UC3.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\obj\Debug\net6.0\LINQ-UC1-UC3.AssemblyInfo.cs
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\obj\Debug\net6.0\LINQ-UC1-UC3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\obj\Debug\net6.0\LINQ-UC1-UC3.dll
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\obj\Debug\net6.0\refint\LINQ-UC1-UC3.dll
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\obj\Debug\net6.0\LINQ-UC1-UC3.pdb
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\obj\Debug\net6.0\LINQ-UC1-UC3.genruntimeconfig.cache
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINQ-UC1-UC3\LINQ-UC1-UC3\obj\Debug\net6.0\ref\LINQ-UC1-UC3.dll

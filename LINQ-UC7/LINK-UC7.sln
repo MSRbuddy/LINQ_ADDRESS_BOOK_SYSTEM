@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-UC7", "LINK-UC7\LINQ-UC7.csproj", "{803B7212-A4BE-4074-9AAC-E681B675B075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{AA768529-0D0F-445C-BDE0-09A4FC8F0350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803B7212-A4BE-4074-9AAC-E681B675B075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803B7212-A4BE-4074-9AAC-E681B675B075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803B7212-A4BE-4074-9AAC-E681B675B075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803B7212-A4BE-4074-9AAC-E681B675B075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA768529-0D0F-445C-BDE0-09A4FC8F0350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA768529-0D0F-445C-BDE0-09A4FC8F0350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA768529-0D0F-445C-BDE0-09A4FC8F0350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA768529-0D0F-445C-BDE0-09A4FC8F0350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1CF380B-F477-4DD1-B17B-0DE82D237CD4}
+	EndGlobalSection
+EndGlobal

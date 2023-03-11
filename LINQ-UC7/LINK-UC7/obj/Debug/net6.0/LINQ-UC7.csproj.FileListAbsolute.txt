@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\bin\Debug\net6.0\LINQ-UC7.exe
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\bin\Debug\net6.0\LINQ-UC7.deps.json
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\bin\Debug\net6.0\LINQ-UC7.runtimeconfig.json
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\bin\Debug\net6.0\LINQ-UC7.dll
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\bin\Debug\net6.0\LINQ-UC7.pdb
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\obj\Debug\net6.0\LINQ-UC7.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\obj\Debug\net6.0\LINQ-UC7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\obj\Debug\net6.0\LINQ-UC7.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\obj\Debug\net6.0\LINQ-UC7.AssemblyInfo.cs
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\obj\Debug\net6.0\LINQ-UC7.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\obj\Debug\net6.0\LINQ-UC7.dll
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\obj\Debug\net6.0\refint\LINQ-UC7.dll
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\obj\Debug\net6.0\LINQ-UC7.pdb
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\obj\Debug\net6.0\LINQ-UC7.genruntimeconfig.cache
+C:\Users\USER\source\repos\LINQ-AddressBook\LINQ-AddressBook\LINK-UC7\LINK-UC7\obj\Debug\net6.0\ref\LINQ-UC7.dll

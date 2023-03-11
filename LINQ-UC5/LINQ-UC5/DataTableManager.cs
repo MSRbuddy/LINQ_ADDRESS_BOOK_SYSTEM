@@ -101,15 +101,7 @@ namespace LINQ_AddressBook
             // Add column to the DataColumnCollection.    
             custTable.Columns.Add(dtColumn);
 
-            // Create Address column.    
-            dtColumn = new DataColumn();
-            dtColumn.DataType = typeof(Int64);
-            dtColumn.ColumnName = "Zip";
-            dtColumn.Caption = "Zip";
-            dtColumn.ReadOnly = false;
-            dtColumn.Unique = false;
-            // Add column to the DataColumnCollection.    
-            custTable.Columns.Add(dtColumn);
+            
 
         }
         //Insert Values in Datatable
@@ -120,25 +112,25 @@ namespace LINQ_AddressBook
             ContactDataManager contactDataManager = new ContactDataManager();
             ContactDataManager contactDataManagers = new ContactDataManager();
             //Insert Values into Table
-            contactDataManager.FirstName = "Shalini";
-            contactDataManager.LastName = "Venkatesh";
-            contactDataManager.PhoneNumber = 9842905050;
-            contactDataManager.Email = "shalini@gmail.com";
-            contactDataManager.Address = "4,B Block,Avadi";
-            contactDataManager.City = "chennai";
-            contactDataManager.State = "TN";
-            contactDataManager.zip = 600072;
+            contactDataManager.FirstName = "Meghana";
+            contactDataManager.LastName = "Dasari";
+            contactDataManager.PhoneNumber = 9876504321;
+            contactDataManager.Email = "meghana@gmail.com";
+            contactDataManager.Address = "Dharpally";
+            contactDataManager.City = "Nizamabad";
+            contactDataManager.State = "TS";
+            contactDataManager.zip = 503165;
             InsertintoDataTable(contactDataManager);
 
             //Insert Values into Table
-            contactDataManagers.FirstName = "Raksha";
-            contactDataManagers.LastName = "Parthiban";
-            contactDataManagers.PhoneNumber = 7742905050;
-            contactDataManagers.Email = "raksha@gmail.com";
-            contactDataManagers.Address = "Sasthri street,ambattur";
-            contactDataManagers.City = "chennai";
-            contactDataManagers.State = "TN";
-            contactDataManagers.zip = 123001;
+            contactDataManagers.FirstName = "Rushitha";
+            contactDataManagers.LastName = "Kottala";
+            contactDataManagers.PhoneNumber = 9876543201;
+            contactDataManagers.Email = "rushitha@gmail.com";
+            contactDataManagers.Address = "Hyderabad";
+            contactDataManagers.City = "Hyderabad";
+            contactDataManagers.State = "TS";
+            contactDataManagers.zip = 503001;
             InsertintoDataTable(contactDataManagers);
 
             return custTable.Rows.Count;

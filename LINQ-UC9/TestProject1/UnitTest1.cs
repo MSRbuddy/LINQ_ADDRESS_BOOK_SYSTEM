@@ -85,8 +85,8 @@ namespace ContactManagerTesting
         [TestCategory("Sort based on City")]
         public void GivenSortQuery_BasedOnCityandState_returnString()
         {
-            string expected = "Rushitha, Meghana";
-            string actual = dataTableManger.SortBasedOnNameInDataTable("chennai");
+            string expected = "Rushitha, Kottala";
+            string actual = dataTableManger.SortBasedOnNameInDataTable("Hyderabad");
             Assert.AreEqual(actual, expected);
         }
         //Usecase 7: sort based  on Contact Type
